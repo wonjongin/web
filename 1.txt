@@ -1,0 +1,12 @@
+<!--소개페이지-->
+<h2>nanobyte소개</h2>
+<div class="textual">
+저희는 중학교 2학년때 만들어진 정보동아리를 시작으로 아직까지 활동중인 정보관련 팀, nanobyte 입니다. <br>
+가현중학교 홈페이지를 가실 분은 <a href="http://gahyeon.icems.kr/main.do" target="_blank">여기를 눌러주세요</a>
+<ul>
+    <li>2018.03  가현중학교에서 정보동아리로 시작</li>
+    <li>2019.07  1차 공개채용</li>
+    <li>2019.09  정보동아리 부스운영</li>
+    <li>2019.11  팀이름 nanobyte로 변경</li>
+</ul>
+</div>

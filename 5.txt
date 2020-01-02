@@ -1,0 +1,7 @@
+<!--찾아오는길-->
+<h2>nanobyte를 찾아오는 길</h2>
+<div class="textual">
+<ul>
+		<li>웹사이트로 찾아오기: 브라우저에 <a href="http://nanobyte.iptime.org">http://nanobyte.iptime.org/</a> 라고 입력합니다.</li>
+  </ul>
+</div>

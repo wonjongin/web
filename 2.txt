@@ -1,0 +1,17 @@
+<!--구성원-->
+<h2>nanobyte멤버</h2>
+<div class="textual">
+<p>저희 팀의 구성원은 다음과 같습니다.</p>
+	<ul>
+		<li><strong>김태민</strong>:게임개발 담당</li>
+		<li><strong>원종인</strong>:팀장, 서버와 웹사이트 담당</li>
+		<li><strong>하승준</strong>:하드웨어 담당</li>
+		<li><strong>허준혁</strong>:홍보 담당</li>
+		<li><strong>박순형</strong>:자바 담당</li>
+		<li><strong>김찬웅</strong>:앱인벤터 담당</li>
+		<li><strong>윤상민</strong>:다크포스 담당</li>
+		<li><strong>하태웅</strong>:일러스트 담당</li>
+		<li><strong>김현우</strong>:Q/C 테스트 담당</li>
+		<li><strong>이경민</strong>:??</li>
+		</ul>
+</div>

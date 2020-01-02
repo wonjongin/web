@@ -1,0 +1,9 @@
+<li><a href="/index.php?id=1">소개</a></li>
+<li><a href="/index.php?id=2">구성원</a></li>
+<li><a href="/index.php?id=3">하는일</a></li>
+<li><a href="/index.php?id=4">자료실</a></li>
+<li><a href="/index.php?id=5">찾아오는 길</a></li>
+<li><a href="/index.php?id=6">의견남기기</a></li>
+<li><a href="/sec/page_staffonly.php">관계자전용</a></li>
+<li><a href="/sec/page_staffonly2.php">관리자전용</a></li>
+<li><a href="/upload.html">파일업로드</a></li>

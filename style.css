@@ -1,0 +1,31 @@
+body.white{
+    background-color: white;
+    color: black;
+}
+body.black{
+    background-color: black;
+    color: white;
+}
+body.hanji{
+    background-image: url("/sec/img/hanji.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body.black a{
+    color: orange;
+}
+a{ color:blue; text-decoration: none;}
+a:hover{text-decoration: underline;}
+header h1{
+    text-align: center;
+    font-size: 40px; 
+   }
+header img {float: right; width: 100px;}
+ul {font-size: 20px;}
+p {font-size: 20px;}
+header {border-bottom: 1px solid grey; padding:20px;}
+article{font-size: 20px;}
+/*#theme {
+}*/ 

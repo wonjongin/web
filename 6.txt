@@ -1,0 +1,5 @@
+<!--의견남기기-->
+<h2>nanobyte에게 의견남기기</h2>
+<div class="textual"기
+<p>nanobyte에게 의견이 있으시면 아래에 댓글을 남겨주세요 </p>
+</div>

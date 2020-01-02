@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>nanobyte upload </title>
+        <link rel="stylesheet"type="text/css" href="/style.css">
+        
+
+	</head>
+	<body id="body" >
+		<header>
+		<h1>nanobyte</h1>
+        <img src="/img/logo.png" alt="nanobyte" />  
+    </header>
+        <form action="/upload/upload.php" method="POST" enctype="multipart/form-data">
+            
+            <input type="file" name="profile">
+            <input type="submit" value="전송">
+        </form>
+        
+
+        <div id="theme">
+                <input type="button" value="라이트모드" onclick="document.getElementById('body').className='white'"/>
+                <input type="button" value="다크모드" onclick="document.getElementById('body').className='black'"/>
+                <input type="button" value="한지모드" onclick="document.getElementById('body').className='hanji'"/>
+        </div>
+        <script src="/script.js"></script>
+        
+        
+
+		
+	</body>
+</html>
